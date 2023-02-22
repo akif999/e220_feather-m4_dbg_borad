@@ -6,7 +6,7 @@
     (property "Value" "E220" (at 8.89 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (at 0 -15.24 0)
+    (property "Footprint" "e220:E220-900T22S(JP)" (at 0 -15.24 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://dragon-torch.tech/wp-content/uploads/2022/08/data_sheet.pdf" (at 0 -19.05 0)
