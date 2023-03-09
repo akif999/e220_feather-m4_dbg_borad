@@ -4,15 +4,15 @@ E220 - Feather-m4 debug board is a PCB that use for debugging with E220 and Feat
 
 \* Feather-m4-express or Feather-m4-can
 
-<img src="images/board.png" width="70%" />
+<img src="images/board.png" width="50%" />
 
 ## Circuit
 
 See below the `kicad` folder for details.
 
-<img src="images/sch.png" width="100%" />
+<img src="images/sch.png" width="70%" />
 <br></br>
-<img src="images/pcb.png" width="80%" />
+<img src="images/pcb.png" width="70%" />
 
 ## References
 
